@@ -1,0 +1,35 @@
+{
+  "name": "fb-pixel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.0",
+    "@zeit/next-sass": "^1.0.1",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "next": "12.1.6",
+    "next-seo": "^4.28.1",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "sass": "^1.43.4",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "@zeit/next-css": "^1.0.1",
+    "babel-plugin-styled-components": "^2.0.7",
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.1",
+    "next-purgecss": "^3.1.2",
+    "next-sitemap": "^1.6.203",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-preset-env": "^7.4.3",
+    "yarn": "^1.22.17"
+  }
+}
